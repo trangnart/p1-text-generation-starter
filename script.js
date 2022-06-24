@@ -3,7 +3,7 @@ const fillers = {
     delivery: ["prophecy", "rumor", "book", "report", "message"],
     period: ["time", "exam", "winter", "beginning", "end", "pandemic"],
     important: ["light", "future", "pain", "hope", "meaning", "Covid", "toilet paper", "money"],
-    feeling: ["madness", "despair", "joy", "hunger", "love", "fear", "failure"],
+    feeling: ["madness", "despair", "hunger", "fearful", "failure"],
     place: ["school", "kingdom", "village", "USA", "world", "heaven and hell", "restroom"],
     event: ["promise", "sorrow", "blessed", "darkness", "fart"],
     sth: ["red eyes", "wisdom", "acne", "rice", "$feeling kids"],
